@@ -40,6 +40,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-FF9A8B?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-FF6A88?style=for-the-badge&logo=mysql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF9A8B?style=for-the-badge&logo=xml&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Java-FF6A88?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### ⚙️ Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/VS%20Code-FF6A88?style=for-the-badge&logo=visual-studio-code&logoColor=white)
