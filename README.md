@@ -55,7 +55,7 @@
 
 ![Beatriz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeaCao&show_icons=true&theme=rose_pine&hide_title=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaCao&layout=compact&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaCao&layout=compact&theme=rose_pine) 
 
 </div>
 
