@@ -55,6 +55,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF6A88?style=for-the-badge&logo=aws&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF9A8B?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/BootStrap-FF6A88?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF9A8B?style=for-the-badge&logo=antigravity&logoColor=white)
+
 
 
 
