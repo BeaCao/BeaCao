@@ -31,7 +31,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF6A88?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF9A8B?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF6A88?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-FF9A8B?style=for-the-badge&logo=mysql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF9A8B?style=for-the-badge&logo=xml&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FF6A88?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-FF9A8B?style=for-the-badge&logo=php&logoColor=white)
 
@@ -42,12 +42,18 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF9A8B?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/BootStrap-FF6A88?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-FF6A88?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF9A8B?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-FF6A88?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### ⚙️ Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/VS%20Code-FF6A88?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-FF9A8B?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6A88?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF9A8B?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF6A88?style=for-the-badge&logo=aws&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF9A8B?style=for-the-badge&logo=antigravity&logoColor=white)
 
 ---
 
